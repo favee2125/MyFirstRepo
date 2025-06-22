@@ -1,1 +1,2 @@
+What I have learned from this course
 i have learned about ls,cd and pwd.
